@@ -3,7 +3,6 @@
 @section('pageTitle', $pageTitle)
 
 @section('main')
-
 <div class="form-container">
     <h1 class="form-title">{{ $pageTitle }}</h1>
     <form class="form">
